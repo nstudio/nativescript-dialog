@@ -1,0 +1,7 @@
+demo/
+.idea/
+*.tar
+*.tgz
+*.zip
+.npmignore
+node_modules

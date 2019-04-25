@@ -1,0 +1,53 @@
+{
+  "name": "@nstudio/nativescript-dialog",
+  "version": "1.0.0",
+  "description": "A NativeScript plugin for iOS and Android that allows you to create custom dialog.",
+  "main": "index",
+  "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstudio/nativescript-dialog"
+  },
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "vue": "true",
+      "core6": "true",
+      "category": "interface",
+      "swift": "true"
+    }
+  },
+  "keywords": [
+    "NativeScript",
+    "dialog",
+    "custom",
+	"alert",
+	"UIAlertView",
+	"UIAlertController",
+	"ios",
+	"android"
+  ],
+  "author": "Vladimir Enchev <vladimir.enchev@gmail.com> (https://github.com/enchev)",
+  "maintainers": [
+    {
+      "url": "https://github.com/nathanaela",
+      "email": "nathan@master-technology.com",
+      "name": "Nathanael Anderson"
+    }
+  ],
+  "contributors": [
+    {
+      "email": "nathan@master-technology.com",
+      "name": "Nathanael Anderson",
+      "url": "https://github.com/nathanaela"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": "https://github.com/nstudio/nativescript-dialog/issues",
+  "homepage": "https://github.com/nstudio/nativescript-dialog"
+}
