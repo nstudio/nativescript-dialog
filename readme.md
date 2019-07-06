@@ -1,6 +1,6 @@
 
 <a align="center" href="https://www.npmjs.com/package/@nstudio/nativescript-dialog">
-    <h3 align="center">NativeScript Xavier Passport</h3>
+    <h3 align="center">NativeScript Dialog Passport</h3>
 </a>
 <h4 align="center">NativeScript plugin to customize Dialogs for Android and iOS.</h4>
 
