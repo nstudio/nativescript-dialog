@@ -1,12 +1,12 @@
 {
   "name": "@nstudio/nativescript-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NativeScript plugin for iOS and Android that allows you to create custom dialog.",
   "main": "index",
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nstudio/nativescript-dialog"
+    "url": "https://git.proplugins.org/proplugins/nativescript-dialog"
   },
   "nativescript": {
     "platforms": {
@@ -17,7 +17,6 @@
       "nan": "true",
       "pan": "true",
       "vue": "true",
-      "core6": "true",
       "category": "interface",
       "swift": "true"
     }
@@ -48,6 +47,9 @@
     }
   ],
   "license": "Apache-2.0",
-  "bugs": "https://github.com/nstudio/nativescript-dialog/issues",
-  "homepage": "https://github.com/nstudio/nativescript-dialog"
+  "bugs": "https://git.proplugins.org/proplugins/nativescript-dialog/issues",
+  "homepage": "https://git.proplugins.org/proplugins/nativescript-dialog",
+  "scripts": {
+    "postinstall": "node postinstall.js || echo \"ignore\""
+  }
 }

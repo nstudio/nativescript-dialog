@@ -1,6 +1,6 @@
-<a href="https://proplugins.org"><img src="unmaintained.svg" height="30px" width="100%"></a>
+<a href="https://proplugins.org"><img src="src/unmaintained.svg" height="30px" width="100%"></a>
 
-# NativeScript-Dialog
+# NativeScript-LocalStorage
 
 
 <p align="center"><a href="https://proplugins.org"><img src="https://proplugins.org/logos/logo.png" width="400"  /></a></p>
